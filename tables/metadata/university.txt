@@ -1,0 +1,2 @@
+universityId=int|primary|
+studentId=int|foreign|

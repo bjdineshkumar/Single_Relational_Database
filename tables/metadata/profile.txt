@@ -1,0 +1,2 @@
+profileId=int|
+profileName=varchar|10

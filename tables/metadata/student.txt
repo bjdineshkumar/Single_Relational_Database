@@ -1,0 +1,5 @@
+studentId=int|primary|
+studentName=varchar
+id=intprimary|
+name=varchar
+courseid=int|foreign
